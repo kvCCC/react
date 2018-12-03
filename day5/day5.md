@@ -70,4 +70,4 @@ ReactDOM.render(
 
 ## connect
 
-把组件和`store`进行一次关联。就如果没有`connect`，这个仓库是没有任何人能访问的
+把组件和`store`进行一次关联。就如果没有`connect`，这个仓库是没有任何人能访问的 aaaaa
